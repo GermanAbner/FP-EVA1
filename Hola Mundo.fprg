@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Hola Mundo"/>
+        <attribute name="authors" value="miria"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-25 04:51:25 p. m."/>
+        <attribute name="created" value="bWlyaWE7TEFQVE9QLTE3NDsyMDI1LTA4LTI1OzA0OjAzOjM0IHAuIG0uOzI2NjU="/>
+        <attribute name="edited" value="bWlyaWE7TEFQVE9QLTE3NDsyMDI1LTA4LTI1OzA0OjUxOjI1IHAuIG0uOzE7Mjc3Ng=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Hello World!!&quot;" newline="True"/>
+            <output expression="&quot;Fundamentos De Programacion&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
