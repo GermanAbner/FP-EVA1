@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_Practica3_2550584"/>
+        <attribute name="authors" value="miria"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 04:30:06 p. m."/>
+        <attribute name="created" value="bWlyaWE7TEFQVE9QLTE3NDsyMDI1LTA4LTI3OzA0OjIwOjQ3IHAuIG0uOzI2NzA="/>
+        <attribute name="edited" value="bWlyaWE7TEFQVE9QLTE3NDsyMDI1LTA4LTI3OzA0OjMwOjA2IHAuIG0uOzE7Mjc3NA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Nombre del Estudiante: &quot;" newline="False"/>
+            <output expression="&quot;German Abner Rangel Luna&quot;" newline="True"/>
+            <output expression="&quot;Numero de Control: &quot;" newline="False"/>
+            <output expression="25550584" newline="True"/>
+            <output expression="&quot;Edad: &quot;" newline="False"/>
+            <output expression="18" newline="False"/>
+        </body>
+    </function>
+</flowgorithm>
