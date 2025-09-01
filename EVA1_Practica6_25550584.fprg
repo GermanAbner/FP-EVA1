@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_Practica6_25550584"/>
+        <attribute name="authors" value="miria"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-09-01 04:37:21 p. m."/>
+        <attribute name="created" value="bWlyaWE7TEFQVE9QLTE3NDsyMDI1LTA5LTAxOzA0OjA5OjA5IHAuIG0uOzI2Njg="/>
+        <attribute name="edited" value="bWlyaWE7TEFQVE9QLTE3NDsyMDI1LTA5LTAxOzA0OjM3OjIxIHAuIG0uOzE7Mjc3MQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Area" type="Real" array="False" size=""/>
+            <declare name="p" type="Real" array="False" size=""/>
+            <declare name="radio" type="Real" array="False" size=""/>
+            <assign variable="p" expression="3.1416"/>
+            <assign variable="radio" expression="10"/>
+            <assign variable="area" expression="p*radio*radio"/>
+            <output expression="&quot;El area de un circulo de radio = 10 es &quot;" newline="False"/>
+            <output expression="area" newline="False"/>
+        </body>
+    </function>
+</flowgorithm>
