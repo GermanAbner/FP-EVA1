@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_Practica9_25550584"/>
+        <attribute name="authors" value="miria"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-09-03 04:19:47 p. m."/>
+        <attribute name="created" value="bWlyaWE7TEFQVE9QLTE3NDsyMDI1LTA5LTAzOzA0OjAyOjA4IHAuIG0uOzI2NjI="/>
+        <attribute name="edited" value="bWlyaWE7TEFQVE9QLTE3NDsyMDI1LTA5LTAzOzA0OjE5OjQ3IHAuIG0uOzE7Mjc4MQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nombre" type="String" array="False" size=""/>
+            <output expression="&quot;Introduce tu nombre completo&quot;" newline="True"/>
+            <input variable="nombre"/>
+            <output expression="&quot;El nombre capturado es : &quot;" newline="False"/>
+            <output expression="nombre" newline="False"/>
+        </body>
+    </function>
+</flowgorithm>
