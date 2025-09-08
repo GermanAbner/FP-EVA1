@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_Practica12_25550584"/>
+        <attribute name="authors" value="miria"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-09-08 04:22:10 p. m."/>
+        <attribute name="created" value="bWlyaWE7TEFQVE9QLTE3NDsyMDI1LTA5LTA4OzA0OjE1OjUyIHAuIG0uOzI2NzA="/>
+        <attribute name="edited" value="bWlyaWE7TEFQVE9QLTE3NDsyMDI1LTA5LTA4OzA0OjIyOjEwIHAuIG0uOzE7Mjc3MA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="califa" type="Integer" array="False" size=""/>
+            <output expression="&quot;Introduce la calificacion&quot;" newline="True"/>
+            <input variable="califa"/>
+            <if expression="califa &gt;= 70">
+                <then>
+                    <output expression="&quot;ACREDITASTE LA MATERIA&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;NO ACREDITASTE LA MATERIA&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
